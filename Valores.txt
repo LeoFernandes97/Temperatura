@@ -1,4 +1,4 @@
-algoritmo "Calculadora"
+algoritmo "valores"
 var
    N1, N2: Inteiro
    M: Real
