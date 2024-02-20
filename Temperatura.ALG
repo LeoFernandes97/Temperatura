@@ -3,10 +3,10 @@ Algoritmo "Temperatura"
 Var
    F, C: Real
 Inicio
-      Escreva ("Qual � a temperatura aqui? ")
+      Escreva ("Qual é a temperatura aqui? ")
       Leia (F)
       C <- (F - 32) / 1.8
-      Escreva ("No Brasil estaria ", C)
+      Escreva ("Portanto, no Brasil é ", C)
 
 
 Fimalgoritmo
